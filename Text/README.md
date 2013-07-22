@@ -7,9 +7,9 @@ Text
 
 - [x] [**Count Vowels**](count-vowels.rb) – Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
 
-- [x] **Check if Palindrome** – Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
+- [x] [**Check if Palindrome**](palindrome.rb) – Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
 
-- [ ] **Count Words in a String** – Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary.
+- [x] [**Count Words in a String**](word-count.rb) – Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary.
 
 - [ ] **Text Editor** – Notepad style application that can open, edit, and save text documents. Add syntax highlighting and other features.
 
